@@ -1,1 +1,1 @@
-A circular buffer is a memory-efficient data structure that uses the modulo operator to link its end back to its beginning. It operates as a queue where data is inserted at the "Tail" and extracted from the "Head," allowing for continuous reuse of the same memory spaceز
+A circular buffer is a memory-efficient data structure that uses the modulo operator to link its end back to its beginning. It operates as a queue where data is inserted at the "Tail" and extracted from the "Head," allowing for continuous reuse of the same memory space.
